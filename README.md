@@ -1,4 +1,4 @@
-# 🌻 **Siga o FLOW para trabalhar no projeto**
+# **Siga o FLOW para trabalhar no projeto**
 
 
 ## **🔀 Para começar**

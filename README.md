@@ -80,5 +80,5 @@ Acesse seu o repositório no BitBucket, acesse a branch que acabou de enviar e c
 <img width="75%" src="img2.png" />
 
 ## **🎊 Congratulations!**
-Adicione a descrição da pull-request detalhando todas as alterações que ela faz e envie a requisição.
-> 🆙 Nessa etapa, a descrição pode ser no seu idioma de domínio para que a escrita fique melhor, o meu é português brasileiro.
+Agora só agardar a aprovação do PR.
+Lembre-se de arrastar o card.

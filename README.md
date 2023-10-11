@@ -75,9 +75,9 @@ $ git pull origin ESW-1165
 ```
 
 ## **🔃 Pull-request**
-Acesse seu repositório no GitHub, acesse a branch que acabou de enviar e crie um pull-request
-<img width="75%" src="https://user-images.githubusercontent.com/48590313/241337789-2d2f5013-affa-4769-ac45-8c4e86abdba3.png" />
-<img width="75%" src="https://user-images.githubusercontent.com/48590313/241337798-bb5b0fac-d732-4415-9dcd-1a27b8f23b5e.png" />
+Acesse seu o repositório no BitBucket, acesse a branch que acabou de enviar e crie um pull-request
+<img width="75%" src="img1.png" />
+<img width="75%" src="img2.png" />
 
 ## **🎊 Congratulations!**
 Adicione a descrição da pull-request detalhando todas as alterações que ela faz e envie a requisição.
